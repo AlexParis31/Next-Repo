@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+html {
+  scroll-behavior: smooth !important;
+  font-family: 'Raleway', sans-serif;
+}
+
+.custom-img {
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/60/45/0457a5d63980334.jpg");
+}
+
+.customTwo-img {
+  background-image: url("https://i.ibb.co/b3nqj7m/Screenshot-2023-05-16-at-1-20-22-PM.png");
+}
+
+.customThree-img {
+  background-image: url("https://i.ibb.co/RBSjP5z/Screenshot-2023-05-16-at-2-26-22-PM.png");
+}
+
